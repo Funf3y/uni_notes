@@ -1,6 +1,6 @@
 # Cosa e come
 
-Qui potrete trovare *parte* dei miei appunti (presi durante le lezioni di Ingegneria Informatica all'università di Padova).
+Qui potrete trovare *parte* dei miei appunti (presi durante le lezioni di Ingegneria Informatica).
 Saranno principalmente pdf, sia comprensivi dell'intera materia, sia divisi per lezione.
 
 # Quando
