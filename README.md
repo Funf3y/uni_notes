@@ -19,12 +19,14 @@ Li caricherò man mano che sistemerò gli appunti. Può darsi che ci voglia un p
 
 ## Secondo anno
 
+### Primo semestre
+
 - Elementi di Fisica 2 (Agnesi): pdf complessivo completo e pdf divisi per lezioni.
 - Laboratorio di Programmazione (Ghidoni): pdf con slides del professore + annotazioni delle cose dette a lezione (***forse*** riscriverò le cose in modo da avere un pdf nello stesso stile di quello di fisica 2).
 - Dati e Algoritmi (Pietracaprina): work in progress (ci sarà il pdf complessivo e quelli divisi per lezioni).
 - Fondamenti di Analisi Matematica e Probabilità (Caravenna, Sfragara): presenti pdf delle prime 5 lezioni e il pdf complessivo delle stesse (necessitano editing, non è detto che verranno sistemate).
 
-## Terzo anno
+### Secondo semestre
 
 - Fondamenti di Controlli Automatici (Beghi): work in progress (sto frequentando le lezioni)
 - Teoria dei Circuiti (Marconato): work in progress (sto frequentando le lezioni)
