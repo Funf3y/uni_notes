@@ -5,9 +5,9 @@ Saranno principalmente pdf, sia comprensivi dell'intera materia, sia divisi per 
 
 I pdf sono generati automaticamente, quindi non ne controllo l'impaginazione.
 
-# Quando e richieste
+# Tempistiche e richieste
 
-Li caricherò man mano che sistemerò gli appunti. Può darsi che ci voglia un po'.
+Li caricherò man mano che sistemerò gli appunti, ma sono solo una persona, quindi può darsi che ci voglia un po'.
 
 > [!NOTE]
 > Sono disponibile a ri-generare i pdf con diversi font e in bianco e nero se necessario, chiedete pure :)
@@ -16,7 +16,7 @@ Li caricherò man mano che sistemerò gli appunti. Può darsi che ci voglia un p
 
 # Contenuti
 
-> - 😎: Appunti completi
+> - 😎: Lezioni complete
 > - 📚: Appunti
 > - 📕: Riassunto
 
