@@ -9,14 +9,13 @@ I pdf sono generati automaticamente, quindi non ne controllo l'impaginazione.
 
 Li caricherò man mano che sistemerò gli appunti. Può darsi che ci voglia un po'.
 
-> [!INFO]
+> [!NOTE]
 > Sono disponibile a ri-generare i pdf con diversi font e in bianco e nero se necessario, chiedete pure :)
 
 ---
 
 # Contenuti
 
-> [!lEGENDA]
 > - 😎: Appunti completi
 > - 📚: Appunti
 > - 📕: Riassunto
