@@ -16,7 +16,7 @@ Li caricherò man mano che sistemerò gli appunti, ma sono solo una persona, qui
 
 # Contenuti
 
-> - 😎: Lezioni complete
+> - 😎: Completi
 > - 📚: Appunti
 > - 📕: Riassunto
 
@@ -24,12 +24,12 @@ Li caricherò man mano che sistemerò gli appunti, ma sono solo una persona, qui
 
 ### Primo semestre
 
-- 😎📕 Analisi 1 (Stefani): pdf riassuntivo (credits: Sara Zane).
-- 😎📕 Fondamenti di informatica (Pizzi): pdf riassuntivo (credits: Sara Zane).
+- 😎📕 Analisi 1 (Stefani): pdf riassuntivo.
+- 😎📕 Fondamenti di informatica (Pizzi): pdf riassuntivo.
 
 ### Secondo semestre
 
-- 😎📕 Algebra lineare e geometria (da video yt di Bottacin e lezioni di Colpi): pdf riassuntivo (credits: Sara Zane).
+- 😎📕 Algebra lineare e geometria (da video yt di Bottacin e lezioni di Colpi): pdf riassuntivo.
 - 😎📚 Fisica 1 (Sfondrini): pdf complessivo completo.
 
 ## Secondo anno
@@ -37,8 +37,8 @@ Li caricherò man mano che sistemerò gli appunti, ma sono solo una persona, qui
 ### Primo semestre
 
 - 😎📚 Elementi di Fisica 2 (Agnesi): pdf complessivo completo e pdf divisi per lezioni.
-- 😎📕 Laboratorio di Programmazione (Ghidoni): pdf con slides del professore + annotazioni delle cose dette a lezione; pdf riassuntivo (credits: Sara Zane).
-- 📕📚 Dati e Algoritmi (Pietracaprina): work in progress (presenti fino alla lezione 25. Ci sarà il pdf complessivo e quelli divisi per lezioni); pdf riassuntivo (credits: Sara Zane).
+- 😎📕 Laboratorio di Programmazione (Ghidoni): pdf con slides del professore + annotazioni delle cose dette a lezione; pdf riassuntivo.
+- 📕📚 Dati e Algoritmi (Pietracaprina): work in progress (presenti fino alla lezione 25. Ci sarà il pdf complessivo e quelli divisi per lezioni); pdf riassuntivo.
 - 📚 Fondamenti di Analisi Matematica e Probabilità (Caravenna, Sfragara): presenti pdf delle prime 5 lezioni e il pdf complessivo delle stesse (necessitano editing, non penso le sistemerò).
 
 ### Secondo semestre
