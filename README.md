@@ -38,13 +38,13 @@ Li caricherò man mano che sistemerò gli appunti, ma sono solo una persona, qui
 
 - 😎📚 Elementi di Fisica 2 (Agnesi): pdf complessivo completo e pdf divisi per lezioni.
 - 😎📕 Laboratorio di Programmazione (Ghidoni): pdf con slides del professore + annotazioni delle cose dette a lezione; pdf riassuntivo.
-- 📕📚 Dati e Algoritmi (Pietracaprina): work in progress (presenti fino alla lezione 25. Ci sarà il pdf complessivo e quelli divisi per lezioni); pdf riassuntivo.
+- 📕📚 Dati e Algoritmi (Pietracaprina): work in progress (presenti fino alla lezione 25 su 35. Ci sarà il pdf complessivo e quelli divisi per lezioni); pdf riassuntivo completo.
 - 📚 Fondamenti di Analisi Matematica e Probabilità (Caravenna, Sfragara): presenti pdf delle prime 5 lezioni e il pdf complessivo delle stesse (necessitano editing, non penso le sistemerò).
 
 ### Secondo semestre
 
 - 📚 Fondamenti di Controlli Automatici (Beghi): work in progress (sto frequentando le lezioni)
-- 📚 Teoria dei Circuiti (Marconato): work in progress (sto frequentando le lezioni)
+- 😎📚 Teoria dei Circuiti (Marconato): pdf complessivo completo e pdf divisi per lezioni.
 - Sistemi Operativi (Nanni): work in progress (sto frequentando le lezioni)
 - Elementi di Ingegneria del Software (Migliardi): work in progress (sto frequentando le lezioni)
 
