@@ -17,7 +17,7 @@ Li caricherò man mano che sistemerò gli appunti, ma sono solo una persona, qui
 # Contenuti
 
 > - 😎: Completi
-> - 📚: Appunti
+> - 📚: Dispense
 > - 📕: Riassunto
 
 ## Primo anno
