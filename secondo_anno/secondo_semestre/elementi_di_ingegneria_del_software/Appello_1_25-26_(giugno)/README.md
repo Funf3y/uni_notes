@@ -6,6 +6,7 @@ Si assume di trovarsi in ambiente J2SE 1.4.2.
 
 Nella cartella `junit` si possono trovare i file `.jar` usati per il framework JUnit nella versione 4.13, nella cartella `doc` si trova la documentazione (compilata tramite `javadoc`), mentre nella cartella `bin` i binari ottenuti in compilazione (è stata utilizzata la versione di java `openjdk 21.0.11 2026-04-21`).
 Si accede alla pagina principale della documentazione grazie al file `doc/index.html` (o `doc\index.html`).
+
 ---
 
 # Compilazione ed esecuzione
