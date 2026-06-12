@@ -11,8 +11,7 @@ Si accede alla pagina principale della documentazione grazie al file `doc/index.
 
 # Compilazione ed esecuzione
 
-Tutti i comandi fanno riferimento ai path relativi alla cartella principale del progetto
-.
+Tutti i comandi fanno riferimento ai path relativi alla cartella principale del progetto.
 
 ## Linux/MacOs
 
@@ -23,7 +22,7 @@ Tutti i comandi fanno riferimento ai path relativi alla cartella principale del 
 
 ## Windows
 
-- Per ricompilare la documentazione si può eseguire il comando `javadoc -cp "junit\S*:." -d doc myAdapter\*.java myTest\*.java`
+- Per ricompilare la documentazione si può eseguire il comando `javadoc -cp "junit\*:." -d doc myAdapter\*.java myTest\*.java`
 - Per ricompilare il progetto si può eseguire il comando `javac -cp "junit\*;." -d bin myTest\*.java myAdapter\*.java`
 - Per eseguire il progetto si può eseguire il comando `java -cp "junit\*;bin" myTest.TestRunner`
 - Per eseguire le singole classi di test si può eseguire il comando `java -cp "bin;junit\*" org.junit.runner.JUnitCore myTest.<classe da eseguire>` (ma non vengono visualizzati i test falliti)
