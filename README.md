@@ -43,10 +43,10 @@ Li caricherò man mano che sistemerò gli appunti, ma sono solo una persona, qui
 
 ### Secondo semestre
 
-- 📚 Fondamenti di Controlli Automatici (Beghi): work in progress (sto frequentando le lezioni)
+- 📚 Fondamenti di Controlli Automatici (Beghi): work in progress.
 - 😎📚 Teoria dei Circuiti (Marconato): pdf complessivo completo e pdf divisi per lezioni.
-- Sistemi Operativi (Nanni): work in progress (sto frequentando le lezioni)
-- Elementi di Ingegneria del Software (Migliardi): work in progress (sto frequentando le lezioni)
+- Sistemi Operativi (Nanni): work in progress.
+- 😎 Elementi di Ingegneria del Software (Migliardi): Svolgimento appello 1 25-26 (giugno).
 
 ---
 
