@@ -11,7 +11,8 @@ Si accede alla pagina principale della documentazione grazie al file `doc/index.
 
 # Compilazione ed esecuzione
 
-Tutti i comandi fanno riferimento ai path relativi alla cartella principale del progetto (`.`).
+Tutti i comandi fanno riferimento ai path relativi alla cartella principale del progetto
+.
 
 ## Linux/MacOs
 
